@@ -8,6 +8,7 @@ Zadanie 1 - Kółko i krzyżyk
 
 ✅ 5.0 - pozwala na grę z komputerem.
 
+<br>
 Zadanie 2 - Tetris  w Lua
 
 ✅ 3.0 Postawowa wersja dekstopowa z obsługą na klawiaturze - minimum 4
@@ -21,6 +22,7 @@ rodzaje klocków
 
 ❌ 5.0 Wersja na iOS lub Android z implementacją touch zamiast klawiatury
 
+<br>
 Zadanie 3 - Mario w Ruby2d
 
 ✅ 3.0 Należy stworzyć jeden poziom z przeszkodami oraz dziurami w które
@@ -34,6 +36,7 @@ można wpaść i zginąć
 
 ✅ 5.0 Generator poziomów
 
+<br>
 Zadanie 4 - Mario w PhaserJS
 
 ✅ 3.0 Należy stworzyć jeden poziom z przeszkodami oraz dziurami w które
@@ -47,6 +50,7 @@ można wpaść i zginąć
 
 ❌ 5.0 Generator poziomów
 
+<br>
 Zadanie 5 - Czatbot Rasa Resturacja
 
 ✅ 3.0 Nalezy zaimplementować minimum 3 ściezki (stories) - wykrywać
