@@ -1,0 +1,24 @@
+version: "3.1"
+
+stories:
+- story: greet and goodbye
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: ask opening hours
+  steps:
+  - intent: ask_hours
+  - action: action_show_hours
+
+- story: order flow
+  steps:
+  - intent: show_menu
+  - action: action_show_menu
+  - intent: order_food
+  - action: action_add_to_order
+  - intent: provide_address
+  - action: action_set_address
+  - action: action_summarize_order

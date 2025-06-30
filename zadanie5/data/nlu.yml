@@ -1,0 +1,37 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - cześć
+    - hej
+    - witam
+
+- intent: goodbye
+  examples: |
+    - pa
+    - do widzenia
+    - na razie
+
+- intent: ask_hours
+  examples: |
+    - jakie macie godziny otwarcia?
+    - od której do której jesteście otwarci?
+    - kiedy otwieracie?
+
+- intent: show_menu
+  examples: |
+    - pokaż menu
+    - co jest w menu?
+    - chcę zobaczyć ofertę
+
+- intent: order_food
+  examples: |
+    - chcę zamówić
+    - poproszę [Margherita](dish)
+    - dodaj [Capricciosa](dish)
+
+- intent: provide_address
+  examples: |
+    - adres to ul. Krakowska 10, Warszawa
+    - dostawa pod ul. Słoneczną 5
